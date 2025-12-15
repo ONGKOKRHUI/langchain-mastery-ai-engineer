@@ -1,0 +1,6 @@
+google-generativeai
+langchain-google-genai
+langchain>=0.0.208
+langchain-anthropic
+python-dotenv
+langgraph>=0.3.4
