@@ -15,3 +15,6 @@ langchainhub
 chromadb 
 langgraph 
 tavily-python
+
+langchain-chroma
+beautifulsoup4
